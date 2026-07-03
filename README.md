@@ -124,4 +124,11 @@ KPI Development
 Business Analysis
 
 Dashboard Design
+
 Business Storytelling
+
+## 📂 Dataset Source
+
+The dataset used in this project was provided as part of a free Data Analyst Technical Test shared by **Nia Fitria** on LinkedIn. The project was completed independently for learning and portfolio purposes.
+
+The analysis, SQL queries, dashboard design, business insights, and recommendations are entirely my own work.
